@@ -1,0 +1,22 @@
+body {
+  font-family: FreeMono, monospace;
+}
+circle.body {
+  fill: white;
+  stroke: gray;
+  stroke-width: 10px;
+}
+rect {
+  stroke: black;
+  fill: orange;
+}
+svg .special {
+  stroke: magenta;
+}
+svg {
+  background-image: url("background2.jpg");
+}
+
+#mound {
+  opacity: .3;
+}
